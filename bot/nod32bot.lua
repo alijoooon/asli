@@ -250,7 +250,7 @@ function create_config( )
 	    sudo_users = {205364303},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = sara bot[
 https://github.com/dany-sj/EVILBOT
 
 channel : کسشر نگو 
