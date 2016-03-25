@@ -247,14 +247,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {173345972,179578927},--Sudo users
+	    sudo_users = {205364303},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/dany-sj/EVILBOT
 
-channel : @HACKANDEVILBOT
-sodu : @Xx_shah_zaq_xX
+channel : کسشر نگو 
+sodu : @mr_editoram
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -319,13 +319,13 @@ bc [group_id] [text]
 bc 123456789 Hello !
 This command will send text to [group_id]
 
-channel : @HACKANDEVILBOT
+channel : کسشر نگو 
 
-sodu : @Xx_shah_zaq_xX
+sodu : @mr_editoram
 
 ]],
     help_text = [[
-EVILBOT Commands list :
+sara bot Commands list :
  
 1-banhammer list ^
  
@@ -521,11 +521,11 @@ version
 
 دستورات بدون ....!.../..کار میکند
 
-channel : @HACKANDEVILBOT
+channel : کسشر نگو 
 
-sodu : @Xx_shah_zaq_xX
+sodu : @mr_editoram
 
-G00D LUCK ^_^
+کیری باشید همیشه 
 ]]
    }
   serialize_to_file(config, './data/config.lua')
