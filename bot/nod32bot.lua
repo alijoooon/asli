@@ -247,7 +247,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {205364303},--Sudo users
+	    sudo_users = {205364303,173345972},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = sara bot[
